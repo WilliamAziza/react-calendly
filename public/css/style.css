@@ -1,0 +1,55 @@
+.topp{
+	margin-left: 300px;
+	padding-top: 10px;
+}
+.topp a{
+	color: black;
+	text-decoration: none;
+	padding-right: 50px;
+	font-weight: bold;
+}
+
+.input1{
+	height: 50px;
+	border-bottom-left-radius: 50px;
+	border-top-left-radius: 50px;
+}
+.signup{
+	height: 50px;
+	border-radius: 20px;
+	background-color: black; 
+	color: white;
+	width: 120px;
+}
+.imgg{
+	height: 60px;
+}
+
+.body1{ 
+	height: 50px; 
+	position: relative; 
+	top: -29px; 
+	left: 15px; 
+	font-weight: bolder; 
+	font-size: 20px; 
+	line-height: 23px;
+}
+.body2{
+	border-left: solid #d4d4d4 0.5px;
+	height: 150px; 
+	position: relative; 
+	top: -70px; "
+}
+
+.body3{
+	height: 200px; 
+	width: 80%;  
+	left: 150px;
+	position: absolute; 
+	top: 0px;  
+	background-repeat: no-repeat;"
+}
+
+.imggg{
+	height: 60px;
+}
