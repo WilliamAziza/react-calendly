@@ -198,7 +198,7 @@ const Calendar = () => {
                       </div>
                       <div className="col-md-6">
                         <button className="btn btn-default btn-block">
-                          <i className="fa faMicrosoft"></i> Connect Outlook Calendar
+                          <i className="fa fa-envelope"></i> Connect Outlook Calendar
                         </button>
                       </div>
                     </div>
